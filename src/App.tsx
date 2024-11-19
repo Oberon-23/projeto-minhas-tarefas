@@ -1,7 +1,6 @@
 import EstiloGlobal, { Container } from './styles'
-import ListaDeTarefas from "./containers/ListaDeTarefas"
-import EstiloGlobal, { Container } from './styles"
-
+import ListaDeTarefas from './ListaDeTarefas'
+import BarraLateral from './containers/BarraLateral'
 function App() {
   return (
     <div className="App">
